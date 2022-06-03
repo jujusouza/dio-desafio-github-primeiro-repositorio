@@ -1,0 +1,5 @@
+cd nomePasta : serve para acessar uma pasta 
+
+git clone linkRepositorio: serve para baixar um projeto do github para minha maquina
+
+git status: serve para verificar o status das alteraçoes do projeto 
